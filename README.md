@@ -2,5 +2,5 @@
 this is my first git project
 <br>
 i am a developer
-author - vishal
+author - vishal chaudhary
 
